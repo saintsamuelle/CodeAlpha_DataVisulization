@@ -1,0 +1,13 @@
+order_id,month,region,product,units_sold,unit_price
+1,Jan,North,Laptop,15,600
+2,Jan,South,Phone,30,300
+3,Feb,East,Tablet,20,250
+4,Feb,West,Laptop,10,600
+5,Mar,North,Phone,40,300
+6,Mar,South,Tablet,25,250
+7,Apr,East,Laptop,18,600
+8,Apr,West,Phone,35,300
+9,May,North,Tablet,22,250
+10,May,South,Laptop,12,600
+11,Jun,East,Phone,45,300
+12,Jun,West,Tablet,28,250
